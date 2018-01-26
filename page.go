@@ -2,7 +2,6 @@ package main
 
 import "io/ioutil"
 
-// Page object.
 type Page struct {
 	Title string
 	Body  []byte
